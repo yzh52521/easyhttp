@@ -11,7 +11,7 @@ gitee:[gitee.com/gouguoyin/easyhttp](https://gitee.com/gouguoyin/easyhttp "gitee
 
 #### 环境依赖
 
-- PHP >= 5.5.0
+- PHP >= 7.1.0
 - 如果使用PHP流处理，allow_url_fopen 必须在php.ini中启用。
 - 如果使用cURL处理，cURL >= 7.19.4，并且编译了OpenSSL 与 zlib。
 
